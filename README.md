@@ -1,4 +1,5 @@
 # CareerGhana internship tasks
+Built by Christian Tetteh for his role as a full stack developer intern at CareerGhana.
 
 Three full-stack web apps, each live, tested and documented. Each one has its own folder with its own README, and every folder keeps its full commit history from the original repo.
 
